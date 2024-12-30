@@ -83,7 +83,7 @@
 根据**考研的硬实力**，考研经验帖的作者分为：
 
 - **错题本**：考不上或撞了狗屎运考上了（因为点击就送的院校专业太多了）。
-- **做题人**：以[天道酬勤的学习曲线](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/3-learning-curve.md)考上了或倒了八辈子霉失手了。
+- **做题人**：以[天道酬勤的学习曲线](https://github.com/harvey-lau/kaoyan/blob/main/1-src/2-essays/3-learning-curve.md)考上了或倒了八辈子霉失手了。
 - **做题家**：不可能考不上。
 
 根据**吃相**，考研经验帖的作者分为：

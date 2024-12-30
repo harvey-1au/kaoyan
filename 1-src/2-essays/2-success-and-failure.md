@@ -18,7 +18,7 @@
 
 ## 0x02 失败是成功之母
 
-很多人忘记了这条朴素的道理。如果你比别人勇敢且努力，但还是失败了。你至少需要做一件事情，“直面失败，对失败[归因](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/2-dedust/attribution-determining-the-boundary-of-inward-and-outward.md)，纠正不足之处”。只有这样，才可以得到失败的价值。
+很多人忘记了这条朴素的道理。如果你比别人勇敢且努力，但还是失败了。你至少需要做一件事情，“直面失败，对失败归因，纠正不足之处”。只有这样，才可以得到失败的价值。
 
 对于考研：
 
@@ -42,6 +42,6 @@
 - 如何和渣导斗智斗勇？
 - 如何和同门相处？
 - 硕士生涯的体验和见闻教会了你哪些东西？
-- 你是否更加“[见天地](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/1-knowing-your-life/1-knowing-the-world.md)”、“[见众生](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/1-knowing-your-life/2-knowing-the-people.md)”、“[见自己](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/1-knowing-your-life/3-knowing-yourself.md)”？
+- 你是否更加“见天地”、“见众生”、“见自己”？
 
-过程一直比成功或失败本身（结果）更重要。只是中国大陆的教育体系让做题人养成了“只要卷赢多少人，就可以怎么怎么样”的病态思维。从[价值尺度](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/3-marxist-philosophy/5-epistemology.md)来看，成败只有自己拥有定义权；从**真理尺度**来看，作为失败者的多数人对成败的定义是否值得盲从呢？
+过程一直比成功或失败本身（结果）更重要。只是中国大陆的教育体系让做题人养成了“只要卷赢多少人，就可以怎么怎么样”的病态思维。从价值尺度来看，成败只有自己拥有定义权；从**真理尺度**来看，作为失败者的多数人对成败的定义是否值得盲从呢？

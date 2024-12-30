@@ -8,7 +8,7 @@ Q：1.01的365次方是多少？
 
 A：约37.78！
 
-小镇做题人的中学贴满了这类暴论：“每天进步1%，一年强大37倍！”这其实是不切实际的[学习曲线](https://en.wikipedia.org/wiki/Learning_curve)。那么，什么是实际的学习曲线？这个问题的答案已有[铺垫](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/2-dedust/reconciliation-the-anxiety-of-failure.md)。
+小镇做题人的中学贴满了这类暴论：“每天进步1%，一年强大37倍！”这其实是不切实际的[学习曲线](https://en.wikipedia.org/wiki/Learning_curve)。那么，什么是实际的学习曲线？
 
 - 大天才： $1.5 \times 1.5 \times 1.5 \times 1.5 = 5.0625$
 - 小天才： $1.2 \times 1.2 \times 1.2 \times 1.2 = 2.0736$
@@ -17,7 +17,7 @@ A：约37.78！
 
 学习曲线是“横轴代表时间、纵轴代表实力的**函数**关系”。不妨使用函数图像呈现以上4类人参差的学习曲线：
 
-![2-3-1-learning-curve.png](https://github.com/Anticorianderist/kaoyan/blob/main/2-spt/figures/2-3-1-learning-curve.png)
+![2-3-1-learning-curve.png](https://github.com/harvey-lau/kaoyan/blob/main/2-spt/figures/2-3-1-learning-curve.png)
 
 该图所使用的函数关系如下：
 
@@ -58,7 +58,7 @@ A：约37.78！
 
 ### 3. 理想的学习曲线
 
-所谓**理想的学习曲线**，指的是“[按部就班](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/1-target.md)地[实现了考研目标](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/2-success-and-failure.md)的学习曲线”。ta们所对应的是本书所面向的**核心读者**。
+所谓**理想的学习曲线**，指的是“[按部就班](https://github.com/harvey-lau/kaoyan/blob/main/1-src/2-essays/1-target.md)地[实现了考研目标](https://github.com/harvey-lau/kaoyan/blob/main/1-src/2-essays/2-success-and-failure.md)的学习曲线”。ta们所对应的是本书所面向的**核心读者**。
 
 - **裸考分数**：因人而异。
 - **备考方式**：因人而异。
@@ -68,7 +68,7 @@ A：约37.78！
 
 ### 1. 考研政治
 
-![2-3-3-1-101-curve.png](https://github.com/Anticorianderist/kaoyan/blob/main/2-spt/figures/2-3-3-1-101-curve.png)
+![2-3-3-1-101-curve.png](https://github.com/harvey-lau/kaoyan/blob/main/2-spt/figures/2-3-3-1-101-curve.png)
 
 - 学习曲线の众数： $35 \rightarrow 45 \rightarrow 50 \rightarrow 54$
 - 天道酬勤的学习曲线： $40 \rightarrow 50 \rightarrow 60 \rightarrow 70$
@@ -89,7 +89,7 @@ A：约37.78！
 
 ### 2. 考研英语
 
-![2-3-3-2-201-curve.png](https://github.com/Anticorianderist/kaoyan/blob/main/2-spt/figures/2-3-3-2-201-curve.png)
+![2-3-3-2-201-curve.png](https://github.com/harvey-lau/kaoyan/blob/main/2-spt/figures/2-3-3-2-201-curve.png)
 
 - 学习曲线の众数： $30 \rightarrow 33 \rightarrow 36 \rightarrow 39 \rightarrow 42 \rightarrow 45$
 - 天道酬勤的学习曲线： $40 \rightarrow 46 \rightarrow 52 \rightarrow 58 \rightarrow 64 \rightarrow 70$
@@ -104,11 +104,11 @@ A：约37.78！
 学习“直线”的斜率取决于学习材料和拾分模式。
 
 - **学习材料**：学习材料的质量越高，斜率越大。例如，以朱伟全家桶为核心，斜率为每月3分；以新东方全家桶为核心，斜率为每月6分；以黄皮书全家桶为核心，斜率为每月7分。
-- **拾分模式**：学习越面向失分点，斜率越大。例如，背百词斩所贡献的斜率为每月0.05分；背考研英语绿皮书（乱序版）所贡献的斜率为每月0.1分；背考研生词本（见[《上篇：初试方法论/2 考研英语》](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/1-methodologies/2-201.md)的附录）所贡献的斜率为每月1分。
+- **拾分模式**：学习越面向失分点，斜率越大。例如，背百词斩所贡献的斜率为每月0.05分；背考研英语绿皮书（乱序版）所贡献的斜率为每月0.1分；背考研生词本（见[《上篇：初试方法论/2 考研英语》](https://github.com/harvey-lau/kaoyan/blob/main/1-src/1-methodologies/2-201.md)的附录）所贡献的斜率为每月1分。
 
 ### 3. 考研数学
 
-![2-3-3-3-301-curve.png](https://github.com/Anticorianderist/kaoyan/blob/main/2-spt/figures/2-3-3-3-301-curve.png)
+![2-3-3-3-301-curve.png](https://github.com/harvey-lau/kaoyan/blob/main/2-spt/figures/2-3-3-3-301-curve.png)
 
 - 学习曲线の众数： $0 \rightarrow 20 \rightarrow 30 \rightarrow 40 \rightarrow 50 \rightarrow 70$
 - 天道酬勤的学习曲线： $60 \rightarrow 80 \rightarrow 100 \rightarrow 110 \rightarrow 115 \rightarrow 115$
@@ -123,7 +123,7 @@ A：约37.78！
 
 ### 4. 计算机学科专业基础综合
 
-![2-3-3-4-408-curve.png](https://github.com/Anticorianderist/kaoyan/blob/main/2-spt/figures/2-3-3-4-408-curve.png)
+![2-3-3-4-408-curve.png](https://github.com/harvey-lau/kaoyan/blob/main/2-spt/figures/2-3-3-4-408-curve.png)
 
 以上学习曲线面向**跨考生**。
 
@@ -136,5 +136,5 @@ A：约37.78！
 此学习曲线的**指导意义**：
 
 - 因为绝大部分跨考生临报名换回原专业，所以“学习曲线の众数”的纵坐标在10月末降至0。
-- 明确“王道单科书 + 真题”（见[《上篇：初试方法论/4 计算机学科专业基础综合》](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/1-methodologies/4-408.md)的第2节）是最高效的学习材料。以指定教材、黑皮书、视频课为主要的学习材料，只会增本降效。
+- 明确“王道单科书 + 真题”（见[《上篇：初试方法论/4 计算机学科专业基础综合》](https://github.com/harvey-lau/kaoyan/blob/main/1-src/1-methodologies/4-408.md)的第2节）是最高效的学习材料。以指定教材、黑皮书、视频课为主要的学习材料，只会增本降效。
 - 如果零基础，务必高度重视408。这个科目非常庞杂，只复习半年能考100+分已经非常高效了。所以，尽早开始。
